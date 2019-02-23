@@ -1,4 +1,5 @@
-
+<img src="https://www.vincenzocaputo.com/getimage/i=1290-c=75655-w=1000-q=90/img1.jpg&#39"
+width="811" height="455" border="1" />   
 vediamo come sia possibile eseguire un riconoscimento facciale di tutti i componenti della nostra famiglia ( e non solo ) e, quindi, creare dei sensori relativi alla persona riconosciuta da poter inserire in automazioni o script di Home Assistant.
 
 Gestirò il face-recognition utilizzando Python, versione minima 3.5, facendomi aiutare da alcune librerie appositamente create per questo scopo.
