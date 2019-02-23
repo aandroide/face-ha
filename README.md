@@ -1,3 +1,4 @@
+
 vediamo come sia possibile eseguire un riconoscimento facciale di tutti i componenti della nostra famiglia ( e non solo ) e, quindi, creare dei sensori relativi alla persona riconosciuta da poter inserire in automazioni o script di Home Assistant.
 
 Gestirò il face-recognition utilizzando Python, versione minima 3.5, facendomi aiutare da alcune librerie appositamente create per questo scopo.
@@ -90,3 +91,5 @@ Ora dovremo creare un sensore per ogni persona seguendo l’esempio sotto:
     icon: mdi:face
 
 Da notare che dopo 10 secondi il sensore torna allo stato iniziale, quando qualcuno viene riconosciuto lo stato è “presente”
+<img src="https://www.vincenzocaputo.com/getimage/i=1297-c=44861-w=1000-q=90/img8.jpg&#39"
+width="600" height="400" border="1" />   
