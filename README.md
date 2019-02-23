@@ -92,4 +92,4 @@ Ora dovremo creare un sensore per ogni persona seguendo l’esempio sotto:
 
 Da notare che dopo 10 secondi il sensore torna allo stato iniziale, quando qualcuno viene riconosciuto lo stato è “presente”
 <img src="https://www.vincenzocaputo.com/getimage/i=1297-c=44861-w=1000-q=90/img8.jpg&#39"
-width="600" height="400" border="1" />   
+width="300" height="300" border="1" />   
