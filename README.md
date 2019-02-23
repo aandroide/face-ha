@@ -1,3 +1,4 @@
+<img src="https://www.vincenzocaputo.com/picoblog/view/192/riconoscimento_facciale_con_raspberry_e_integrazione_in_home_assistant" border="1" />  
 <img src="https://www.vincenzocaputo.com/getimage/i=1290-c=75655-w=1000-q=90/img1.jpg&#39"
 width="811" height="455" border="1" />   
 vediamo come sia possibile eseguire un riconoscimento facciale di tutti i componenti della nostra famiglia ( e non solo ) e, quindi, creare dei sensori relativi alla persona riconosciuta da poter inserire in automazioni o script di Home Assistant.
